@@ -1,0 +1,8 @@
+E:\Y2\WCF\WcfServices\ChannelClient\bin\Debug\ChannelClient.exe.config
+E:\Y2\WCF\WcfServices\ChannelClient\bin\Debug\ChannelClient.exe
+E:\Y2\WCF\WcfServices\ChannelClient\bin\Debug\ChannelClient.pdb
+E:\Y2\WCF\WcfServices\ChannelClient\bin\Debug\Service.Interface.dll
+E:\Y2\WCF\WcfServices\ChannelClient\bin\Debug\Service.Interface.pdb
+E:\Y2\WCF\WcfServices\ChannelClient\obj\Debug\ChannelClient.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServices\ChannelClient\obj\Debug\ChannelClient.exe
+E:\Y2\WCF\WcfServices\ChannelClient\obj\Debug\ChannelClient.pdb

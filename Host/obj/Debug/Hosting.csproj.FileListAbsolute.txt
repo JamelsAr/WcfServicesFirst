@@ -1,0 +1,10 @@
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Host.exe.config
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Host.exe
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Host.pdb
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Service.dll
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Service.Interface.dll
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Service.Interface.pdb
+E:\Y2\WCF\WcfServices\Host\bin\Debug\Service.pdb
+E:\Y2\WCF\WcfServices\Host\obj\Debug\Hosting.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServices\Host\obj\Debug\Host.exe
+E:\Y2\WCF\WcfServices\Host\obj\Debug\Host.pdb

@@ -1,0 +1,7 @@
+E:\Y2\WCF\WcfServices\Service\bin\Debug\Service.dll
+E:\Y2\WCF\WcfServices\Service\bin\Debug\Service.pdb
+E:\Y2\WCF\WcfServices\Service\bin\Debug\Service.Interface.dll
+E:\Y2\WCF\WcfServices\Service\bin\Debug\Service.Interface.pdb
+E:\Y2\WCF\WcfServices\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+E:\Y2\WCF\WcfServices\Service\obj\Debug\Service.dll
+E:\Y2\WCF\WcfServices\Service\obj\Debug\Service.pdb
